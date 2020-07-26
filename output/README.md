@@ -6,7 +6,7 @@
     
 
     ## Description:
-    creates md file
+    this project is dedicated to develop a markdown files labled "README" for repositories.  
 
 
     ## Table of Contents 
@@ -28,17 +28,16 @@
     npm install
 
     ## Usage
-    to create md files
+    to develop readmes
 
     ## Contribution
-    questions
+    adding questions, creating the files, etc.
 
     ## Tests
     npm run test
 
     ## Questions
     torresethan99@gmail.com
-    
     
     
     

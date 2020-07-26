@@ -7,13 +7,13 @@ const questions = [
     {
         name: "username",
         type: "input",
-        message:"Please insert your username"
+        message:"Please insert your username:"
     },
     
     {
         name: "email",
         type: "input",
-        message: "Please insert your E-mail"
+        message: "Please insert your E-mail:"
     },
     
     {
@@ -25,13 +25,13 @@ const questions = [
     {
         name: "description",
         type: "input",
-        message: "Write a quick and short description of your project and it"
+        message: "Write a quick and short description of your project and its function:"
     },
     
     {
         name: "license",
         type: "list",
-        message: "",
+        message: "Select a License for you README file:",
         choices: ["MIT","GPL","BSD","Apache"]
     },
     
@@ -51,7 +51,7 @@ const questions = [
     {
         name: 'usage',
         type: "input",
-        message: ' how are you usng this repository?'
+        message: ' how are you using this repository?'
     },
     
     {
