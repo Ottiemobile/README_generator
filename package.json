@@ -1,24 +1,24 @@
 {
-  "name": "readme-generator",
+  "name": "readme_generator",
   "version": "1.0.0",
-
-  "description": "this is a program that develops a markDown file for developers to read",
-
+  "description": "",
   "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ottiemobile/readMe-Generator.git"
+    "url": "git+https://github.com/Ottiemobile/README_generator.git"
   },
-  "author": "Ethan Torres",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ottiemobile/readMe-Generator/issues"
+    "url": "https://github.com/Ottiemobile/README_generator/issues"
   },
-  "homepage": "https://github.com/Ottiemobile/readMe-Generator#readme",
-  "dependencies": {
-    "inquirer": "^7.3.3"
-  }
+  "homepage": "https://github.com/Ottiemobile/README_generator#readme"
 }
