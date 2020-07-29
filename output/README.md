@@ -1,12 +1,12 @@
 
 
-    # README Generator
+    # readme generator
 
     ![license](https://img.shields.io/badge/LICENSE-MIT-BLUE)
     
 
     ## Description:
-    this project is dedicated to develop a markdown files labled "README" for repositories.  
+    makes md files
 
 
     ## Table of Contents 
@@ -28,10 +28,10 @@
     npm install
 
     ## Usage
-    to develop readmes
+    to make md files
 
     ## Contribution
-    adding questions, creating the files, etc.
+    questions?
 
     ## Tests
     npm run test
